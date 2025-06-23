@@ -193,7 +193,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2527339ede943d2f",
+  "active": "17b9b4e61b2da03b",
   "lastOpenFiles": [
     "EveryThing/README.md",
     "README.md",
@@ -206,12 +206,12 @@
     "Problems",
     "Welcome.md",
     "Kanban.md",
-    "EveryThing/Problems/9-palindrome-number/README.md",
-    "EveryThing/Problems/9-palindrome-number/palindrome-number.java",
-    "EveryThing/Problems/1-two-sum/two-sum.java",
-    "EveryThing/Problems/1-two-sum/README.md",
-    "EveryThing/Problems/9-palindrome-number",
-    "EveryThing/Problems/1-two-sum",
-    "EveryThing/Problems"
+    "Problems 1/9-palindrome-number/README.md",
+    "Problems 1/9-palindrome-number/palindrome-number.java",
+    "Problems 1/1-two-sum/two-sum.java",
+    "Problems 1/1-two-sum/README.md",
+    "Problems 1/9-palindrome-number",
+    "Problems 1/1-two-sum",
+    "Problems 1"
   ]
 }
