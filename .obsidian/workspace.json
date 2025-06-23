@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EveryThing/README.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Welcome"
             }
           }
         ]
@@ -195,6 +195,7 @@
   },
   "active": "2527339ede943d2f",
   "lastOpenFiles": [
+    "EveryThing/README.md",
     "README.md",
     "Problems/1-two-sum/two-sum.java",
     "Problems/9-palindrome-number/README.md",
@@ -205,7 +206,6 @@
     "Problems",
     "Welcome.md",
     "Kanban.md",
-    "EveryThing/README.md",
     "EveryThing/Problems/9-palindrome-number/README.md",
     "EveryThing/Problems/9-palindrome-number/palindrome-number.java",
     "EveryThing/Problems/1-two-sum/two-sum.java",
