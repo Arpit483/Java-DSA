@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "README"
             }
           }
         ]
@@ -193,8 +193,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "17b9b4e61b2da03b",
+  "active": "2527339ede943d2f",
   "lastOpenFiles": [
+    "Welcome.md",
     "EveryThing/README.md",
     "README.md",
     "Problems/1-two-sum/two-sum.java",
@@ -204,7 +205,6 @@
     "Problems/9-palindrome-number",
     "Problems/1-two-sum",
     "Problems",
-    "Welcome.md",
     "Kanban.md",
     "Problems 1/9-palindrome-number/README.md",
     "Problems 1/9-palindrome-number/palindrome-number.java",
