@@ -11,10 +11,14 @@
             "id": "7913d82804884e4a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Welcome"
             }
           }
         ]
@@ -172,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343,
-    "collapsed": true
+    "width": 343
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,9 +195,9 @@
   },
   "active": "7913d82804884e4a",
   "lastOpenFiles": [
+    "README.md",
     "Problems/9-palindrome-number/README.md",
     "Problems/1-two-sum/README.md",
-    "README.md",
     "Welcome.md",
     "Striver DSA Questions/First.md",
     "EveryThing/README.md",
