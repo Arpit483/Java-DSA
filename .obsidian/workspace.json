@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "EveryThing/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "README"
             }
           }
         ]
@@ -193,10 +193,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "891a89e8883fb3ae",
+  "active": "17b9b4e61b2da03b",
   "lastOpenFiles": [
-    "Kanban.md",
     "Welcome.md",
+    "Kanban.md",
     "EveryThing/README.md",
     "EveryThing/Problems/9-palindrome-number/README.md",
     "EveryThing/Problems/9-palindrome-number/palindrome-number.java",
