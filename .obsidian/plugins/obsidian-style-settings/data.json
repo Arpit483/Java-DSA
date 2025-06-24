@@ -1,12 +1,14 @@
 {
   "encore-settings@@theme-dark": "encore-theme-dark-glass-royale",
   "encore-settings@@colors": "encore-colors-colorful",
-  "encore-settings@@encore-translucency": true,
   "encore-settings@@encore-fancy-headers": true,
   "encore-settings@@encore-coloured-tooltip": true,
   "encore-settings@@encore-highlight-border": true,
   "encore-settings@@encore-bright-accent": true,
   "encore-settings@@blur-amount": "encore-blur-less",
-  "encore-settings@@encore-translucency-background": "encore-bg-prismatic",
-  "encore-settings@@encore-translucency-strength": 0.1
+  "encore-settings@@encore-translucency-strength": 0.25,
+  "encore-settings@@encore-translucency-blur-amount": 7,
+  "encore-settings@@encore-translucency-background": "encore-bg-chromatic",
+  "encore-settings@@encore-translucency-image": "\"\"",
+  "encore-settings@@encore-translucency": true
 }

@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6d84017630e06b92",
+        "id": "0ae338ec60d2acbe",
         "type": "tabs",
         "children": [
           {
-            "id": "7913d82804884e4a",
+            "id": "af3363af93b5c1f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Theory/13 Linear Search Algo.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "13 Linear Search Algo"
             }
           }
         ]
@@ -41,7 +42,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -193,26 +194,30 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "7913d82804884e4a",
+  "active": "af3363af93b5c1f6",
   "lastOpenFiles": [
-    "README.md",
-    "Problems/9-palindrome-number/README.md",
+    "Theory/14 Binary Search.md",
+    "Theory/13 Linear Search Algo.md",
+    "Templates/Video Lectures.md",
+    "Untitled.md",
+    "Templates",
+    "DSA Codes/MinNo.java",
+    "DSA Codes/searchInRange.java",
+    "DSA Codes/SearchInStrings.java",
+    "DSA Codes/LinearSearch.class",
+    "DSA Codes/LinearSearch.java",
+    "DSA Codes/hello.class",
     "Problems/1-two-sum/README.md",
     "Welcome.md",
+    "README.md",
+    "Problems/9-palindrome-number/README.md",
     "Striver DSA Questions/First.md",
     "EveryThing/README.md",
     "Problems/1-two-sum/two-sum.java",
     "Problems/9-palindrome-number/palindrome-number.java",
     "Problems/9-palindrome-number",
-    "Problems/1-two-sum",
-    "Problems",
     "Kanban.md",
     "Problems 1/9-palindrome-number/README.md",
-    "Problems 1/9-palindrome-number/palindrome-number.java",
-    "Problems 1/1-two-sum/two-sum.java",
-    "Problems 1/1-two-sum/README.md",
-    "Problems 1/9-palindrome-number",
-    "Problems 1/1-two-sum",
-    "Problems 1"
+    "Problems 1/1-two-sum/README.md"
   ]
 }
