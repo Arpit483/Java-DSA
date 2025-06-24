@@ -15,6 +15,6 @@ public class MinNo {
             System.out.println(ans);
         }
         return -1;
-    } 
+    } //done
     
 }
