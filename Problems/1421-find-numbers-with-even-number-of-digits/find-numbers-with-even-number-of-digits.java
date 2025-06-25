@@ -9,14 +9,10 @@ class Solution {
         return count;
     }
     private boolean even(int num) {
-        int count = 0;
-        while(num>0){
-            num = num/10;
-            count++;
-        }
-        if(count%2==0){
-            return true;
-        }
-        return false;
+        int no = digits2(num);
+        return no % 2 == 0;
+    }
+    int digits2(int num){
+        return(int)(Math.log10(num))+1;
     }
 }
