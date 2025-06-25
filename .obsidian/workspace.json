@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/13 Linear Search Algo.md",
+                "file": "Theory/14 Binary Search.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "13 Linear Search Algo"
+              "title": "14 Binary Search"
             }
           }
         ]
@@ -198,22 +198,22 @@
   },
   "active": "af3363af93b5c1f6",
   "lastOpenFiles": [
-    "DSA Codes/Searching/BinarySearch",
-    "DSA Codes/Searching/LinearSearch/SearchIn2dArray.java",
-    "DSA Codes/Searching/LinearSearch/SearchInStrings.java",
-    "DSA Codes/Searching/LinearSearch/searchInRange.java",
-    "DSA Codes/Searching/LinearSearch/MinNo.java",
-    "DSA Codes/Searching/LinearSearch/MaxWealth.java",
-    "DSA Codes/Searching/LinearSearch/LinearSearch.java",
-    "DSA Codes/Searching/LinearSearch/LinearSearch.class",
-    "DSA Codes/Searching/LinearSearch/EvenDigits.java",
-    "DSA Codes/Searching/LinearSearch",
-    "DSA Codes/Searching",
+    "DSA Codes/Searching/BinarySearch/BinarySearch.java~",
+    "DSA Codes/Searching/BinarySearch/Order_Agnostic_BS.java~",
+    "DSA Codes/out/production/DSA Codes/Searching/BinarySearch/Order_Agnostic_BS.class",
+    "DSA Codes/Searching/BinarySearch/Order_Agnostic_BS.java",
+    "DSA Codes/out/production/DSA Codes/Searching/BinarySearch/BinarySearch.class",
+    "DSA Codes/out/production/DSA Codes/Searching/BinarySearch",
+    "DSA Codes/out/production/DSA Codes/Searching/LinearSearch/MinNo.class",
+    "DSA Codes/out/production/DSA Codes/Searching/LinearSearch/EvenDigits.class",
+    "DSA Codes/out/production/DSA Codes/Searching/LinearSearch/LinearSearch.class",
+    "DSA Codes/out/production/DSA Codes/Searching/LinearSearch/MaxWealth.class",
+    "DSA Codes/out/production/DSA Codes/Searching/LinearSearch/SearchIn2dArray.class",
+    "Theory/13 Linear Search Algo.md",
+    "Theory/14 Binary Search.md",
     "Problems/1791-richest-customer-wealth/README.md",
     "Problems/1421-find-numbers-with-even-number-of-digits/README.md",
     "Problems/125-valid-palindrome/README.md",
-    "Theory/14 Binary Search.md",
-    "Theory/13 Linear Search Algo.md",
     "Templates/Video Lectures.md",
     "Untitled.md",
     "Problems/1-two-sum/README.md",
