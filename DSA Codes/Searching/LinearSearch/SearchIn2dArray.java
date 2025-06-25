@@ -1,5 +1,4 @@
-package LinearSearch;
-import java.lang.reflect.Array;
+package Searching.LinearSearch;
 import java.util.Arrays;
 
 public class SearchIn2dArray {

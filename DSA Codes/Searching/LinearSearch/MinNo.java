@@ -1,4 +1,4 @@
-package LinearSearch;
+package Searching.LinearSearch;
 
 public class MinNo {
     public static void main(String[] args) {
