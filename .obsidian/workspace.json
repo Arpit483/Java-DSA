@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "46bf903675e042ab",
@@ -195,8 +194,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "891a89e8883fb3ae",
+  "active": "af3363af93b5c1f6",
   "lastOpenFiles": [
+    "DSA Codes/Searching/BinarySearch/RBS.java~",
+    "DSA Codes/out/production/DSA Codes/Searching/BinarySearch/RBS.class",
+    "DSA Codes/out/production/DSA Codes/Searching/BinarySearch/InfiniteArray.class",
+    "DSA Codes/out/production/DSA Codes/Searching/BinarySearch/Order_Agnostic_BS.class",
+    "DSA Codes/Searching/BinarySearch/RBS.java",
+    "Problems/Binary Search/34-find-first-and-last-position-of-element-in-sorted-array/README.md",
+    "Theory/13 Linear Search Algo.md",
+    "Theory/14 Binary Search.md",
     "Problems/Binary Search/1185-find-in-mountain-array/README.md",
     "Problems/Binary Search/1185-find-in-mountain-array/find-in-mountain-array.java",
     "Problems/Binary Search/1185-find-in-mountain-array",
@@ -207,23 +214,16 @@
     "Problems/Binary Search/162-find-peak-element/find-peak-element.java",
     "Problems/Binary Search/162-find-peak-element",
     "Problems/882-peak-index-in-a-mountain-array/README.md",
-    "Problems/882-peak-index-in-a-mountain-array/peak-index-in-a-mountain-array.java",
-    "Problems/882-peak-index-in-a-mountain-array",
     "Problems/162-find-peak-element/README.md",
-    "Problems/162-find-peak-element/find-peak-element.java",
-    "Problems/162-find-peak-element",
     "Problems/1185-find-in-mountain-array/README.md",
     "Problems/Random/1791-richest-customer-wealth/README.md",
     "Problems/Random/1421-find-numbers-with-even-number-of-digits/README.md",
     "Problems/Random/125-valid-palindrome/README.md",
     "Problems/Random/9-palindrome-number/README.md",
     "Problems/Random/1-two-sum/README.md",
-    "Problems/Binary Search/34-find-first-and-last-position-of-element-in-sorted-array/README.md",
     "Problems/745-find-smallest-letter-greater-than-target/README.md",
     "Problems/34-find-first-and-last-position-of-element-in-sorted-array/README.md",
     "Problems/Binary Search/745-find-smallest-letter-greater-than-target/README.md",
-    "Theory/13 Linear Search Algo.md",
-    "Theory/14 Binary Search.md",
     "Problems/1791-richest-customer-wealth/README.md",
     "Problems/1421-find-numbers-with-even-number-of-digits/README.md",
     "Problems/125-valid-palindrome/README.md",
@@ -231,7 +231,6 @@
     "Untitled.md",
     "Problems/1-two-sum/README.md",
     "Welcome.md",
-    "README.md",
-    "Problems/9-palindrome-number/README.md"
+    "README.md"
   ]
 }
