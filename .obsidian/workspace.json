@@ -178,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343,
-    "collapsed": true
+    "width": 343
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +195,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "af3363af93b5c1f6",
+  "active": "891a89e8883fb3ae",
   "lastOpenFiles": [
+    "Problems/Binary Search/745-find-smallest-letter-greater-than-target/find-smallest-letter-greater-than-target.java",
+    "Problems/Binary Search/745-find-smallest-letter-greater-than-target/README.md",
+    "Problems/Binary Search/745-find-smallest-letter-greater-than-target",
+    "Problems/745-find-smallest-letter-greater-than-target/README.md",
+    "Problems/745-find-smallest-letter-greater-than-target/find-smallest-letter-greater-than-target.java",
+    "Problems/745-find-smallest-letter-greater-than-target",
     "Problems/Binary Search",
     "Problems/New folder",
     "DSA Codes/Searching/BinarySearch/Floor.java~",
@@ -205,10 +210,6 @@
     "DSA Codes/Searching/BinarySearch/Ceiling.java~",
     "DSA Codes/out/production/DSA Codes/Searching/BinarySearch/Ceiling.class",
     "DSA Codes/Searching/BinarySearch/Floor.java",
-    "DSA Codes/Searching/BinarySearch/Ceiling.java",
-    "DSA Codes/Searching/BinarySearch/BinarySearch.java~",
-    "DSA Codes/Searching/BinarySearch/Order_Agnostic_BS.java~",
-    "DSA Codes/out/production/DSA Codes/Searching/BinarySearch/Order_Agnostic_BS.class",
     "Theory/13 Linear Search Algo.md",
     "Theory/14 Binary Search.md",
     "Problems/1791-richest-customer-wealth/README.md",
