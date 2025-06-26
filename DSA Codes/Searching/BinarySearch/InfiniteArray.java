@@ -3,7 +3,7 @@ package Searching.BinarySearch;
 public class InfiniteArray {
     public static void main(String[] args) {
         int arr[] = {1,2,3,4,5,6};
-        System.out.println(findingRange(arr , 5));
+        System.out.println(findingRange(arr , 5))  ;
     }
     static int findingRange(int[] arr  , int target){
         //we will double the size and find the length
