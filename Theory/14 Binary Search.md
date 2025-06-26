@@ -54,3 +54,37 @@ Then we use the same techniques as Binary search mentioned above.....
 boolean isAsc = arr[start] < arr[end];
 ```
 
+## LeetCode Questions : 
+
+### Q1. **Ceiling of a Number** : 
+
+$int[] arr = {2,3,4,5,6,9}$    $target = 5$
+**ceiling** = smallest number in array greater than or equal to target.
+` Ex : ceiling(int[] arr , 7) = 9  
+
+**PseudoCode :**
+
+1. Implement BS
+2. Now to find the element greater than equal to target.
+3. When no answer found while loop breaks.. After that start becomes
+   `start  = mid + 1`
+   `ie: end : target : start`
+   so the next big number closer to the target will become start..
+
+
+### Q2. **Find The Floor of a Number** :
+
+**Floor** : biggest number in array smaller than or equal to target.
+$int[] arr = {2,3,4,5,6,9}$    $target = 5$
+` Ex : ceiling(int[] arr , 7) = 6
+
+**PseudoCode :**
+
+1. Implement BS
+2. Now to find the element smaller than equal to target.
+3. When no answer found while loop breaks.. After that start becomes
+   `end  = mid - 1`
+   `ie: end : target : start`
+   so the smallest number closer to the target will become end..
+
+

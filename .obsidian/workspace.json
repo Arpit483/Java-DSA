@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "46bf903675e042ab",
@@ -177,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343
+    "width": 343,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,17 +198,17 @@
   },
   "active": "af3363af93b5c1f6",
   "lastOpenFiles": [
+    "Problems/Binary Search",
+    "Problems/New folder",
+    "DSA Codes/Searching/BinarySearch/Floor.java~",
+    "DSA Codes/out/production/DSA Codes/Searching/BinarySearch/Floor.class",
+    "DSA Codes/Searching/BinarySearch/Ceiling.java~",
+    "DSA Codes/out/production/DSA Codes/Searching/BinarySearch/Ceiling.class",
+    "DSA Codes/Searching/BinarySearch/Floor.java",
+    "DSA Codes/Searching/BinarySearch/Ceiling.java",
     "DSA Codes/Searching/BinarySearch/BinarySearch.java~",
     "DSA Codes/Searching/BinarySearch/Order_Agnostic_BS.java~",
     "DSA Codes/out/production/DSA Codes/Searching/BinarySearch/Order_Agnostic_BS.class",
-    "DSA Codes/Searching/BinarySearch/Order_Agnostic_BS.java",
-    "DSA Codes/out/production/DSA Codes/Searching/BinarySearch/BinarySearch.class",
-    "DSA Codes/out/production/DSA Codes/Searching/BinarySearch",
-    "DSA Codes/out/production/DSA Codes/Searching/LinearSearch/MinNo.class",
-    "DSA Codes/out/production/DSA Codes/Searching/LinearSearch/EvenDigits.class",
-    "DSA Codes/out/production/DSA Codes/Searching/LinearSearch/LinearSearch.class",
-    "DSA Codes/out/production/DSA Codes/Searching/LinearSearch/MaxWealth.class",
-    "DSA Codes/out/production/DSA Codes/Searching/LinearSearch/SearchIn2dArray.class",
     "Theory/13 Linear Search Algo.md",
     "Theory/14 Binary Search.md",
     "Problems/1791-richest-customer-wealth/README.md",
