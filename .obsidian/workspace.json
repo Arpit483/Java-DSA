@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "46bf903675e042ab",
@@ -177,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343
+    "width": 343,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,6 +199,9 @@
   "active": "af3363af93b5c1f6",
   "lastOpenFiles": [
     "DSA Codes/Searching/BinarySearch/RBS.java~",
+    "Problems/33-search-in-rotated-sorted-array/search-in-rotated-sorted-array.java",
+    "Problems/33-search-in-rotated-sorted-array/README.md",
+    "Problems/33-search-in-rotated-sorted-array",
     "DSA Codes/out/production/DSA Codes/Searching/BinarySearch/RBS.class",
     "DSA Codes/out/production/DSA Codes/Searching/BinarySearch/InfiniteArray.class",
     "DSA Codes/out/production/DSA Codes/Searching/BinarySearch/Order_Agnostic_BS.class",
@@ -211,8 +216,6 @@
     "Problems/Binary Search/882-peak-index-in-a-mountain-array/peak-index-in-a-mountain-array.java",
     "Problems/Binary Search/882-peak-index-in-a-mountain-array",
     "Problems/Binary Search/162-find-peak-element/README.md",
-    "Problems/Binary Search/162-find-peak-element/find-peak-element.java",
-    "Problems/Binary Search/162-find-peak-element",
     "Problems/882-peak-index-in-a-mountain-array/README.md",
     "Problems/162-find-peak-element/README.md",
     "Problems/1185-find-in-mountain-array/README.md",
@@ -230,7 +233,6 @@
     "Templates/Video Lectures.md",
     "Untitled.md",
     "Problems/1-two-sum/README.md",
-    "Welcome.md",
-    "README.md"
+    "Welcome.md"
   ]
 }
