@@ -88,3 +88,6 @@ $int[] arr = {2,3,4,5,6,9}$    $target = 5$
    so the smallest number closer to the target will become end..
 
 
+## Binary Search in 2D Array : 
+
+
