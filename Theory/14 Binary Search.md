@@ -91,3 +91,4 @@ $int[] arr = {2,3,4,5,6,9}$    $target = 5$
 ## Binary Search in 2D Array : 
 
 
+A matrix is sorted in row wise and column wise manner -- every row is sorted and every column is also sorted
