@@ -178,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343
+    "width": 343,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,7 +196,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "891a89e8883fb3ae",
+  "active": "af3363af93b5c1f6",
   "lastOpenFiles": [
     "Problems/BinarySearch/1185-find-in-mountain-array/README.md",
     "Problems/BinarySearch/1185-find-in-mountain-array/find-in-mountain-array.java",
