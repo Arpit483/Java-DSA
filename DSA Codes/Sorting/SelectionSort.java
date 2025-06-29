@@ -1,5 +1,6 @@
 package Sorting;
 
+import javax.swing.*;
 import java.util.Arrays;
 
 public class SelectionSort {
