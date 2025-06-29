@@ -10,5 +10,7 @@
   "obsidian-outliner",
   "editing-toolbar",
   "obsidian-annotator",
-  "github-sync"
+  "github-sync",
+  "code-styler",
+  "vscode-editor"
 ]

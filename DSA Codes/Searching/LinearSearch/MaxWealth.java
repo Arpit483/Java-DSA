@@ -1,3 +1,6 @@
+
+
+
 package Searching.LinearSearch;
 //https://leetcode.com/problems/richest-customer-wealth/description/
 public class MaxWealth {
