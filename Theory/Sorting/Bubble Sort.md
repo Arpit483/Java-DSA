@@ -29,6 +29,9 @@ Also know as *Sinking Sort / Exchange Sort*
 When The original order is maintained for sorted values the we can say that the sorted array is **Stable**.
 When The original order is not maintained for sorted values the we can say that the sorted array is **Unstable**. 
 
+
+**Stable** : No
+
 **PseudoCode**:
 
 ```java
@@ -55,4 +58,6 @@ static void BubbleSort(int[]  arr){
 
 **Code**: 
 [[BubbleSort.java]]
+
+
 
