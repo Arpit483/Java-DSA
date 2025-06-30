@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Theory/Sorting/Cyclic Sort.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Cyclic Sort"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "46bf903675e042ab",
@@ -198,6 +199,11 @@
   },
   "active": "af3363af93b5c1f6",
   "lastOpenFiles": [
+    "DSA Codes/Sorting/CyclicSort.java~",
+    "DSA Codes/out/production/DSA Codes/Sorting/CyclicSort.class",
+    "DSA Codes/Sorting/CyclicSort.java",
+    "README.md",
+    "Theory/Sorting/Cyclic Sort.md",
     "Theory/Sorting/Insertion Sort.md",
     "Problems/BinarySearch/69-sqrtx/sqrtx.java",
     "Problems/BinarySearch/69-sqrtx/README.md",
@@ -211,11 +217,8 @@
     "DSA Codes/Sorting/SelectionSort.java~",
     "DSA Codes/out/production/DSA Codes/Sorting/SelectionSort.class",
     "DSA Codes/Sorting/SelectionSort.java",
-    "README.md",
     "Templates/Video Lectures.md",
     "Welcome.md",
-    "DSA Codes/Sorting/BubbleSort.java~",
-    "DSA Codes/out/production/DSA Codes/Sorting/BubbleSort.class",
     "Theory/Searching/14 Binary Search.md",
     "Untitled.canvas",
     "Theory/Searching/13 Linear Search Algo.md",
@@ -233,7 +236,6 @@
     "Problems/Binary Search/1185-find-in-mountain-array/README.md",
     "Problems/Binary Search/882-peak-index-in-a-mountain-array/README.md",
     "Problems/Binary Search/162-find-peak-element/README.md",
-    "Problems/882-peak-index-in-a-mountain-array/README.md",
-    "Problems/162-find-peak-element/README.md"
+    "Problems/882-peak-index-in-a-mountain-array/README.md"
   ]
 }
