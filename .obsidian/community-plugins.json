@@ -12,5 +12,10 @@
   "obsidian-annotator",
   "github-sync",
   "code-styler",
-  "vscode-editor"
+  "vscode-editor",
+  "table-editor-obsidian",
+  "obsidian-advanced-uri",
+  "obsidian-emoji-toolbar",
+  "obsidian-hider",
+  "make-md"
 ]

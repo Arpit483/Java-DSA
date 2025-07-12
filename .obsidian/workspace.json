@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0ae338ec60d2acbe",
+        "id": "ca263a1a21bfd82f",
         "type": "tabs",
         "children": [
           {
-            "id": "af3363af93b5c1f6",
+            "id": "8da15182ff7912aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/Sorting/Cyclic Sort.md",
+                "file": "Theory/Strings/String.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Cyclic Sort"
+              "title": "String"
             }
           }
         ]
@@ -74,8 +74,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "e66d9e7fe3fc546a",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -194,48 +205,54 @@
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "github-sync:Sync with Remote": false,
-      "vscode-editor:Create Code File": false
+      "vscode-editor:Create Code File": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af3363af93b5c1f6",
+  "active": "8da15182ff7912aa",
   "lastOpenFiles": [
-    "DSA Codes/Sorting/CyclicSort.java~",
-    "DSA Codes/out/production/DSA Codes/Sorting/CyclicSort.class",
-    "Problems/CyclicSort/287-find-the-duplicate-number/find-the-duplicate-number.java",
-    "Problems/CyclicSort/448-find-all-numbers-disappeared-in-an-array/README.md",
-    "Problems/CyclicSort/287-find-the-duplicate-number/README.md",
-    "Problems/CyclicSort/448-find-all-numbers-disappeared-in-an-array/find-all-numbers-disappeared-in-an-array.java",
-    "Problems/CyclicSort/442-find-all-duplicates-in-an-array/README.md",
-    "Problems/CyclicSort/442-find-all-duplicates-in-an-array/find-all-duplicates-in-an-array.java",
-    "Problems/CyclicSort/268-missing-number/README.md",
-    "Problems/CyclicSort/268-missing-number/missing-number.java",
-    "Problems/CyclicSort/448-find-all-numbers-disappeared-in-an-array",
-    "Problems/CyclicSort/442-find-all-duplicates-in-an-array",
-    "Problems/CyclicSort/287-find-the-duplicate-number",
-    "Problems/CyclicSort/268-missing-number",
-    "Problems/CyclicSort",
-    "README.md",
-    "Theory/Sorting/Cyclic Sort.md",
+    "DSA Codes/StringLec/Performance.java~",
+    "DSA Codes/out/production/DSA Codes/StringLec/Performance.class",
+    "DSA Codes/StringLec/Performance.java",
+    "DSA Codes/StringLec/Operator.java~",
+    "DSA Codes/out/production/DSA Codes/StringLec/Operator.class",
+    "DSA Codes/StringLec/Operator.java",
+    "DSA Codes/StringLec/Output.java~",
+    "DSA Codes/out/production/DSA Codes/StringLec/Output.class",
+    "DSA Codes/StringLec/Comparison.java~",
+    "DSA Codes/StringLec/Output.java",
+    "DSA Codes/out/production/DSA Codes/StringLec/Comparison.class",
+    "Pasted image 20250712212424.png",
+    "Pasted image 20250712212022.png",
+    "Pasted image 20250712211652.png",
+    "Pasted image 20250712211559.png",
+    "Pasted image 20250712211542.png",
+    "Theory/Strings/String.md",
+    "Theory/Strings/Strings.md",
+    "Vault.md",
+    "Theory/Sorting/Untitled 1.md",
     "Theory/Sorting/Insertion Sort.md",
-    "Problems/BinarySearch/69-sqrtx/README.md",
+    "Theory/Searching/14 Binary Search.md",
+    "Theory/Searching/13 Linear Search Algo.md",
+    "README.md",
+    "Untitled 1.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled.md",
+    "Theory/Sorting/Untitled.md",
+    "Theory/Sorting/Cyclic Sort.md",
     "Theory/Sorting/Bubble Sort.md",
     "Theory/Sorting/Selection Sort.md",
-    "Untitled.md",
+    "Problems/CyclicSort/645-set-mismatch/README.md",
+    "Problems/CyclicSort/41-first-missing-positive/README.md",
+    "Problems/CyclicSort/448-find-all-numbers-disappeared-in-an-array/README.md",
+    "Problems/CyclicSort/287-find-the-duplicate-number/README.md",
+    "Problems/CyclicSort/442-find-all-duplicates-in-an-array/README.md",
+    "Problems/CyclicSort/268-missing-number/README.md",
+    "Problems/BinarySearch/69-sqrtx/README.md",
     "Templates/Video Lectures.md",
     "Welcome.md",
-    "Theory/Searching/14 Binary Search.md",
     "Untitled.canvas",
-    "Theory/Searching/13 Linear Search Algo.md",
-    "Theory/Sorting.md",
-    "IMG/Pasted image 20250627183615.png",
-    "Problems/BinarySearch/1185-find-in-mountain-array/README.md",
-    "Problems/BinarySearch/882-peak-index-in-a-mountain-array/README.md",
-    "Problems/BinarySearch/745-find-smallest-letter-greater-than-target/README.md",
-    "Problems/BinarySearch/162-find-peak-element/README.md",
-    "Problems/BinarySearch/34-find-first-and-last-position-of-element-in-sorted-array/README.md",
-    "Problems/BinarySearch/33-search-in-rotated-sorted-array/README.md",
-    "Problems/BinarySearch/410-split-array-largest-sum/README.md",
-    "Problems/33-search-in-rotated-sorted-array/README.md",
-    "Problems/Binary Search/34-find-first-and-last-position-of-element-in-sorted-array/README.md"
+    "IMG/Pasted image 20250627183615.png"
   ]
 }
