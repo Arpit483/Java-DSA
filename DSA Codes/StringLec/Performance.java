@@ -2,12 +2,22 @@ package StringLec;
 
 public class Performance {
     public static void main(String[] args) {
-        String s = " ";
+//        String s = " ";
+//        for (int i = 0; i < 26; i++) {
+//            char ch = (char)('a' + i );
+//            System.out.print(ch + " ");
+//            s = s + ch;
+//        }
+//        System.out.println(s);
+
+        StringBuilder builder = new StringBuilder();
         for (int i = 0; i < 26; i++) {
-            char ch = (char)('a' + i );
+             char ch = (char)('a' + i );
             System.out.print(ch + " ");
-            s = s + ch;
+            builder.append(ch);
         }
-        System.out.println(s);
+        builder.reverse();
+        System.out.println(builder);
+
     }
 }

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/Strings/String.md",
+                "file": "Theory/Strings/Strings.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "String"
+              "title": "Strings"
             }
           }
         ]
@@ -85,13 +85,11 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "46bf903675e042ab",
@@ -209,8 +207,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8da15182ff7912aa",
+  "active": "17b9b4e61b2da03b",
   "lastOpenFiles": [
+    "Untitled",
+    "Theory/Strings/Strings.md",
+    "Theory/Strings/Strings.md",
+    "Vault.md",
+    "DSA Codes/out/production/DSA Codes/StringLec/Comparison.class",
+    "DSA Codes/StringLec/Comparison.java~",
     "DSA Codes/StringLec/Performance.java~",
     "DSA Codes/out/production/DSA Codes/StringLec/Performance.class",
     "DSA Codes/StringLec/Performance.java",
@@ -219,17 +223,11 @@
     "DSA Codes/StringLec/Operator.java",
     "DSA Codes/StringLec/Output.java~",
     "DSA Codes/out/production/DSA Codes/StringLec/Output.class",
-    "DSA Codes/StringLec/Comparison.java~",
-    "DSA Codes/StringLec/Output.java",
-    "DSA Codes/out/production/DSA Codes/StringLec/Comparison.class",
-    "Pasted image 20250712212424.png",
-    "Pasted image 20250712212022.png",
-    "Pasted image 20250712211652.png",
-    "Pasted image 20250712211559.png",
-    "Pasted image 20250712211542.png",
-    "Theory/Strings/String.md",
-    "Theory/Strings/Strings.md",
-    "Vault.md",
+    "IMG/Pasted image 20250712212424.png",
+    "IMG/Pasted image 20250712212022.png",
+    "IMG/Pasted image 20250712211652.png",
+    "IMG/Pasted image 20250712211559.png",
+    "IMG/Pasted image 20250712211542.png",
     "Theory/Sorting/Untitled 1.md",
     "Theory/Sorting/Insertion Sort.md",
     "Theory/Searching/14 Binary Search.md",
